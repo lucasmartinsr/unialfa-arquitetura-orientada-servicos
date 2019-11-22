@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\bin\Release\netcoreapp2.2\UI.WebApi.deps.json
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\bin\Release\netcoreapp2.2\UI.WebApi.runtimeconfig.json
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\bin\Release\netcoreapp2.2\UI.WebApi.runtimeconfig.dev.json
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\bin\Release\netcoreapp2.2\UI.WebApi.dll
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\bin\Release\netcoreapp2.2\UI.WebApi.pdb
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\obj\Release\netcoreapp2.2\UI.WebApi.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\obj\Release\netcoreapp2.2\UI.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\obj\Release\netcoreapp2.2\UI.WebApi.RazorAssemblyInfo.cache
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\obj\Release\netcoreapp2.2\UI.WebApi.RazorAssemblyInfo.cs
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\obj\Release\netcoreapp2.2\UI.WebApi.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\obj\Release\netcoreapp2.2\UI.WebApi.AssemblyInfo.cs
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\obj\Release\netcoreapp2.2\UI.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\obj\Release\netcoreapp2.2\UI.WebApi.dll
+C:\Users\lucas\Documents\Dev\UI.WebApi\UI.WebApi\obj\Release\netcoreapp2.2\UI.WebApi.pdb
