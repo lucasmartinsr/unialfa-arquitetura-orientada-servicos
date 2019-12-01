@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Documents\\Dev\\UI.WebApi\\UI.WebApi\\UI.WebApi.csproj": {}
+    "C:\\Users\\lucas\\Documents\\Dev\\API-ReservaCarro\\unialfa-arquitetura-orientada-servicos\\UI.WebApi\\UI.WebApi\\UI.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Documents\\Dev\\UI.WebApi\\UI.WebApi\\UI.WebApi.csproj": {
+    "C:\\Users\\lucas\\Documents\\Dev\\API-ReservaCarro\\unialfa-arquitetura-orientada-servicos\\UI.WebApi\\UI.WebApi\\UI.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Dev\\UI.WebApi\\UI.WebApi\\UI.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Dev\\API-ReservaCarro\\unialfa-arquitetura-orientada-servicos\\UI.WebApi\\UI.WebApi\\UI.WebApi.csproj",
         "projectName": "UI.WebApi",
-        "projectPath": "C:\\Users\\lucas\\Documents\\Dev\\UI.WebApi\\UI.WebApi\\UI.WebApi.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\Dev\\API-ReservaCarro\\unialfa-arquitetura-orientada-servicos\\UI.WebApi\\UI.WebApi\\UI.WebApi.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\Dev\\UI.WebApi\\UI.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\Dev\\API-ReservaCarro\\unialfa-arquitetura-orientada-servicos\\UI.WebApi\\UI.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -69,6 +69,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.2.4, )"
+            },
+            "Steeltoe.Discovery.ClientCore": {
+              "target": "Package",
+              "version": "[2.4.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

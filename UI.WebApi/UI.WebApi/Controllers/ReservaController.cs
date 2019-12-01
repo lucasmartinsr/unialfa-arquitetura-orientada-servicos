@@ -43,7 +43,7 @@ namespace UI.WebApi.Controllers
             return Ok(_reservaCarroServico.ObtenhaTodosPorCliente(id));
         }
 
-        [HttpGet("cliente/{id}/preco")]
+        [HttpGet("preco/cliente/{id}")]
         public IActionResult ObtenhaPreco(long id)
         {
             return Ok(_reservaCarroServico.ObtenhaPreco(id));

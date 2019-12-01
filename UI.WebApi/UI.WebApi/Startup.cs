@@ -8,6 +8,7 @@ using UI.WebApi.Interfaces;
 using UI.WebApi.Servico;
 using Swashbuckle.AspNetCore.Swagger;
 using static UI.WebApi.Data.Context.ReservaCarroContexto;
+using Steeltoe.Discovery.Client;
 
 namespace UI.WebApi
 {
@@ -38,6 +39,7 @@ namespace UI.WebApi
                         Description = "API REST criada com o ASP.NET Core 2.2 para reserva de carro"
                     });
             });
+            services.AddDiscoveryClient(Configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -53,9 +55,6 @@ namespace UI.WebApi
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
-            app.UseMvc();
-
             // Ativando middlewares para uso do Swagger
             app.UseSwagger();
             app.UseSwaggerUI(c => {
@@ -63,7 +62,8 @@ namespace UI.WebApi
             });
 
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
+            app.UseDiscoveryClient();
             app.UseMvc();
         }
     }
